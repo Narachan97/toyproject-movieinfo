@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Narachan97/toyproject-movieinfo/static/css/main.a203efd1.css",
-    "main.js": "/Narachan97/toyproject-movieinfo/static/js/main.0041cdac.js",
+    "main.js": "/Narachan97/toyproject-movieinfo/static/js/main.7e8945bb.js",
     "static/js/453.42b43d98.chunk.js": "/Narachan97/toyproject-movieinfo/static/js/453.42b43d98.chunk.js",
     "static/media/slick.svg": "/Narachan97/toyproject-movieinfo/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/Narachan97/toyproject-movieinfo/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -9,11 +9,11 @@
     "static/media/slick.woff": "/Narachan97/toyproject-movieinfo/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Narachan97/toyproject-movieinfo/index.html",
     "main.a203efd1.css.map": "/Narachan97/toyproject-movieinfo/static/css/main.a203efd1.css.map",
-    "main.0041cdac.js.map": "/Narachan97/toyproject-movieinfo/static/js/main.0041cdac.js.map",
+    "main.7e8945bb.js.map": "/Narachan97/toyproject-movieinfo/static/js/main.7e8945bb.js.map",
     "453.42b43d98.chunk.js.map": "/Narachan97/toyproject-movieinfo/static/js/453.42b43d98.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a203efd1.css",
-    "static/js/main.0041cdac.js"
+    "static/js/main.7e8945bb.js"
   ]
 }
